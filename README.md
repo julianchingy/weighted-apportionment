@@ -2,9 +2,9 @@
 
 This is the code used to run the experiments for the Bundestag Case Study section in the paper titled "Apportionment with Weighted Seats"..
 
-## Folder structure.
+## Repository structure.
 
-Here are some details on the contents of this folder.
+Here are some details on the contents of this repository.
 
 `main.py` - This is the script to run the experiments.
 
